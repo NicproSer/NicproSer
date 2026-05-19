@@ -51,6 +51,7 @@ Un framework CSS ligero y personalizable diseñado para acelerar el desarrollo f
 - Personalización mediante variables CSS.
 - Compatible con frameworks como React y NextJS.
 
+### **CONDCLOUD**
 
 ---
 
@@ -74,6 +75,7 @@ Aquí tienes un resumen de las tecnologías y herramientas con las que tengo exp
 
 ### CMS y Otros
 - **MGPanel**
+- **WordPress**
 - **Básico en SEO**
 
 ---
